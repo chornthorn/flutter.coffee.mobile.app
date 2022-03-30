@@ -1,30 +1,20 @@
-# Hello-FlutterFlow
+# Coffee Mobile Application Build with Flutter Framework
 
-A new Flutter project.
+## Features as UI:
+  - Sign In page
+  - Sign Up page
+  - Forget password page
+  - Verify code page
+  - Reset password page
 
-## Getting Started
+## Demo UI screenshot:
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+![1](https://user-images.githubusercontent.com/36778896/160902285-ff8b1539-7fc9-4147-99f2-7fce4ada52f1.png)
+![2](https://user-images.githubusercontent.com/36778896/160902455-1fdff54f-a8df-40a0-bb32-3e6a6dfdbd61.png)
+![3](https://user-images.githubusercontent.com/36778896/160902481-55c82c48-e5b0-403d-a29c-b73477ada954.png)
+![4](https://user-images.githubusercontent.com/36778896/160902493-c5fd7594-5b31-4309-89fc-40c3c7bac955.png)
+![5](https://user-images.githubusercontent.com/36778896/160902509-f86a62fe-c179-489d-8c4c-8996b02eebd0.png)
 
-### IMPORTANT:
-
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
-
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
-
-This command creates the generated files that parse each Record from Firestore into a schema object.
-
-### Getting started continued:
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
